@@ -16,8 +16,8 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/to-do-list-social-auth-django.git
-   cd to-do-list-social-auth-django
+   git clone https://github.com/salman-221b/To-do-list-with-social-authentication.git
+   cd To-do-list-with-social-authentication
    ```
 
 2. **Install Dependencies:**
