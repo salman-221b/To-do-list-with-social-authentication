@@ -1,6 +1,6 @@
 # To-Do List Django Project with Social Authentication
 
-Welcome to the To-Do List Django project with social authentication! This project showcases a simple to-do list application with the added functionality of logging in using popular social media platforms such as Facebook and Google. This README file will guide you through the process of setting up and running the project on your local machine using Django.
+Welcome to the To-Do List Django project with social authentication! This project showcases a simple to-do list application with the added functionality of logging in using popular social media platforms such as Facebook and Google. This README file will guide you through the process of setting up and running the project on your local machine using Django. Here is the live demo of this website on [Heroku](https://salman-todolist-46ed6b38a5ca.herokuapp.com)
 
 ## Prerequisites
 
